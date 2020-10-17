@@ -31,3 +31,5 @@ http://www.youtube.com/watch?v=HBbzYKMfx5Y
 DISCLAIMER:
 
 This project is intended for non-commercial educational purposes.
+
+[![Run on Repl.it](https://repl.it/badge/github/RED-ux101/Mario-Level-1)](https://repl.it/github/RED-ux101/Mario-Level-1)
